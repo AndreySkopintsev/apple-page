@@ -1,0 +1,1 @@
+The clone of Apple page project from The Odin project
